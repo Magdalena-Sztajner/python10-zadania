@@ -1,0 +1,295 @@
+commit 500ebd88aabbc58d4810367e5487dd96b2fb4996
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 20:05:28 2022 +0100
+
+    Revert "usuniecie jednej linijki refrenu"
+    
+    This reverts commit 0cd163271ddc483abd3cb4e1e5ec86a1e84d21d1.
+
+commit 0cd163271ddc483abd3cb4e1e5ec86a1e84d21d1
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 20:04:15 2022 +0100
+
+    usuniecie jednej linijki refrenu
+
+commit 3bd264feca1b9f37233db2fa467e622d64f448de
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 20:02:44 2022 +0100
+
+    dodanie refrenu nr 3
+
+commit 519641d2594c5f6d2d2b0932319c8b42f01758a5
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 20:01:33 2022 +0100
+
+    usuniecie refrenu nr 3
+
+commit b78bbb83af4e49b4721f1d63efe951e1130da09c
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 19:59:22 2022 +0100
+
+    dodanie zwrotki nr 3
+
+commit 357c958d89d07b89bcffafd0cd5d478b81049cb3
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 19:57:38 2022 +0100
+
+    usuniecie zwrotki nr 3
+
+commit bb7fccb920faa45cc8286529da6f844f88480ca9
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 19:55:32 2022 +0100
+
+    dodanie refrenu nr 2
+
+commit b53004237a75125e9b3531f9422b958ee9ffcd3e
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 19:54:14 2022 +0100
+
+    usuniecie refrenu nr 2
+
+commit f00c69855e6bea48b0462f40f641f941308459bc
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 19:52:43 2022 +0100
+
+    wklejenie zwrotki nr 2
+
+commit 9984ee34ef6b00ae166b09481ec72fb977e33e76
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 19:51:03 2022 +0100
+
+    usuniecie zwrotki nr 2
+
+commit 767251c58af5cd3e41872c30fb9da0376918be14
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 19:49:25 2022 +0100
+
+    dodanie refrenu nr 1
+
+commit 99823a8853e4b0241284398d955f0cbb0d21be83
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 19:48:07 2022 +0100
+
+    usuniecie refrenu nr 1
+
+commit 9bbcf6bfb9ae378878068954905f90735cdc0ba7
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 19:46:04 2022 +0100
+
+    dodanie zwrotki nr 1
+
+commit a1f227a45f3aedf81114303ad33149a453670495
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 19:44:54 2022 +0100
+
+    usuniecie zwrotki nr 1
+
+commit 55fb2672262ed1c9614e909d02a81b9f73c96851
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 19:37:17 2022 +0100
+
+    dodanie tekstu piosenki
+commit 519641d2594c5f6d2d2b0932319c8b42f01758a5
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 20:01:33 2022 +0100
+
+    usuniecie refrenu nr 3
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 4efe580..1e75bf8 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -9,11 +9,7 @@ refren2.txt
+
+ zwrotka3.txt
+
++refren3.txt
++
+
+-Formidable, formidable
+-Tu étais formidable, j'étais fort minable
+-Nous étions formidables
+-Formidable
+-Tu étais formidable, j'étais fort minable
+-Nous étions formidables
+
+
+commit 357c958d89d07b89bcffafd0cd5d478b81049cb3
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 19:57:38 2022 +0100
+
+    usuniecie zwrotki nr 3
+
+diff --git a/piosenka.txt b/piosenka.txt
+index 5e571bd..4efe580 100644
+--- a/piosenka.txt
++++ b/piosenka.txt
+@@ -7,19 +7,9 @@ zwrotka2.txt
+
+ refren2.txt
+
++zwrotka3.txt
++
+
+-Et petite, oh pardon! Petit
+-Tu sais dans la vie y'a ni méchant ni gentil
+-Si maman est chiante
+-C'est qu'elle a peur d'être mamie
+-Si papa trompe maman
+-C'est parce que maman vieillit, tiens
+-Pourquoi t'es tout rouge? Ben reviens gamin!
+-Et qu'est-ce que vous avez tous
+-À me regarder comme un singe, vous?
+-Ah oui vous êtes saints, vous!
+-Bande de macaques!
+-Donnez-moi un bébé singe, il sera
+ Formidable, formidable
+ Tu étais formidable, j'étais fort minable
+ Nous étions formidables
+
+-Et petite, oh pardon! Petit
+-Tu sais dans la vie y'a ni méchant ni gentil
+-Si maman est chiante
+-C'est qu'elle a peur d'être mamie
+-Si papa trompe maman
+-C'est parce que maman vieillit, tiens
+-Pourquoi t'es tout rouge? Ben reviens gamin!
+-Et qu'est-ce que vous avez tous
+-À me regarder comme un singe, vous?
+-Ah oui vous êtes saints, vous!
+-Bande de macaques!
+-Donnez-moi un bébé singe, il sera
+ Formidable, formidable
+ Tu étais formidable, j'étais fort minable
+ Nous étions formidables
+
+Mg10@DESKTOP-QL6PTDJ MINGW64 ~/python10 (master)
+$ nano historia.txt
+
+Mg10@DESKTOP-QL6PTDJ MINGW64 ~/python10 (master)
+$ git log -p zwrotka1.txt
+commit 9bbcf6bfb9ae378878068954905f90735cdc0ba7
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 19:46:04 2022 +0100
+
+    dodanie zwrotki nr 1
+
+diff --git a/zwrotka1.txt b/zwrotka1.txt
+new file mode 100644
+index 0000000..383d99a
+--- /dev/null
++++ b/zwrotka1.txt
+@@ -0,0 +1,10 @@
++Oh bébé, oups! Mademoiselle
++Je vais pas vous draguer, promis juré
++Je suis célibataire, depuis hier putain!
++Je peux pas faire d'enfant et bon c'est pas! Eh reviens!
++Cinq minutes quoi! Je t'ai pas insulté
++Je suis poli, courtois, et un peu fort bourré
++Et pour les mecs comme moi
++Vous avez autre chose à faire hein
++Vous m'auriez vu hier
++J'étais
+
+Mg10@DESKTOP-QL6PTDJ MINGW64 ~/python10 (master)
+Mg10@DESKTOP-QL6PTDJ MINGW64 ~/python10 (master)
+$ git log -p zwrotka2.txt
+commit f00c69855e6bea48b0462f40f641f941308459bc
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 19:52:43 2022 +0100
+
+    wklejenie zwrotki nr 2
+
+diff --git a/zwrotka2.txt b/zwrotka2.txt
+new file mode 100644
+index 0000000..9ca271f
+--- /dev/null
++++ b/zwrotka2.txt
+@@ -0,0 +1,10 @@
++Eh tu t'es regardé, tu te crois beau
++Parce que tu t'es marié, mais c'est qu'un anneau
++Mec, t'emballes pas,
++Elle va te larguer comme elles le font chaque fois
++Et puis l'autre fille, tu lui en as parlé?
++Si tu veux je lui dis, comme ça c'est réglé
++Et au petit aussi, enfin si vous en avez
++Attends 3 ans, 7 ans et là vous verrez
++Si c'est
++
+
+Mg10@DESKTOP-QL6PTDJ MINGW64 ~/python10 (master)
+$ git log -p zwrotka3.txt
+commit b78bbb83af4e49b4721f1d63efe951e1130da09c
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 19:59:22 2022 +0100
+
+    dodanie zwrotki nr 3
+
+diff --git a/zwrotka3.txt b/zwrotka3.txt
+new file mode 100644
+index 0000000..96ae2a6
+--- /dev/null
++++ b/zwrotka3.txt
+@@ -0,0 +1,12 @@
++Et petite, oh pardon! Petit
++Tu sais dans la vie y'a ni méchant ni gentil
++Si maman est chiante
++C'est qu'elle a peur d'être mamie
++Si papa trompe maman
++C'est parce que maman vieillit, tiens
++Pourquoi t'es tout rouge? Ben reviens gamin!
++Et qu'est-ce que vous avez tous
++À me regarder comme un singe, vous?
++Ah oui vous êtes saints, vous!
++Bande de macaques!
++Donnez-moi un bébé singe, il sera
+
+Mg10@DESKTOP-QL6PTDJ MINGW64 ~/python10 (master)
+diff --git a/refren1.txt b/refren1.txt
+index c89ee5a..9257650 100644
+--- a/refren1.txt
++++ b/refren1.txt
+@@ -3,4 +3,4 @@ Tu étais formidable, j'étais fort minable
+ Nous étions formidables
+ Formidable
+ Tu étais formidable, j'étais fort minable
+-
++Nous étions formidables
+
+commit 0cd163271ddc483abd3cb4e1e5ec86a1e84d21d1
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 20:04:15 2022 +0100
+
+    usuniecie jednej linijki refrenu
+
+diff --git a/refren1.txt b/refren1.txt
+index 9257650..c89ee5a 100644
+--- a/refren1.txt
++++ b/refren1.txt
+@@ -3,4 +3,4 @@ Tu étais formidable, j'étais fort minable
+ Nous étions formidables
+ Formidable
+ Tu étais formidable, j'étais fort minable
+-Nous étions formidables
++
+
+commit 767251c58af5cd3e41872c30fb9da0376918be14
+Author: Magdalena <sztajner.m123@gmail.com>
+Date:   Wed Jan 26 19:49:25 2022 +0100
+
+    dodanie refrenu nr 1
+
+diff --git a/refren1.txt b/refren1.txt
+new file mode 100644
+index 0000000..9257650
+--- /dev/null
++++ b/refren1.txt
+@@ -0,0 +1,6 @@
++Formidable, formidable
++Tu étais formidable, j'étais fort minable
++Nous étions formidables
++Formidable
++Tu étais formidable, j'étais fort minable
++Nous étions formidables
+
+Mg10@DESKTOP-QL6PTDJ MINGW64 ~/python10 (master)
