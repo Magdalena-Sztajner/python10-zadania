@@ -5,13 +5,9 @@ refren1.txt
 
 zwrotka2.txt
 
+refren2.txt
 
-Formidable, formidable
-Tu étais formidable, j'étais fort minable
-Nous étions formidables
-Formidable
-Tu étais formidable, j'étais fort minable
-Nous étions formidables
+
 Et petite, oh pardon! Petit
 Tu sais dans la vie y'a ni méchant ni gentil
 Si maman est chiante
