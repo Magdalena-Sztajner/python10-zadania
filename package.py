@@ -31,3 +31,19 @@ while waga_elementu > 0 and waga_elementu <= 10:
         razem_kg += waga_paczki
         waga_paczki = waga_elementu
         # waga_ostatniego_elementu = waga_elementu
+
+        waga_elementu = int(input())
+
+
+
+print()
+
+if waga_elementu < 1:
+    print("BŁĄD! Element waży za mało!\nKONIEC")
+
+if waga_elementu > 10 and waga_elementu != 404:
+    print("BŁĄD! Element za ciężki!\nKONIEC")
+
+szablon_podsumowania = ("Ilość wysłanych paczek to {} szt. Razem wysłano {} kg. Puste kilogramy: {}")
+podsumowanie = szablon_podsumowania.format(wyslane_paczki, razem_kg, suma_pustych_kg)
+print(podsumowanie)
